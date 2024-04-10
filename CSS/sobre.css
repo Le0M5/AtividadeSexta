@@ -1,0 +1,15 @@
+*   {
+    font-size: 30px;
+}
+header {
+    text-align: center;
+}
+h1  {
+    font-size: 2rem;
+    text-align: center;
+    color: #E86C4F;
+}
+nav a {
+    font-size: 30px;
+    color: blue;
+}

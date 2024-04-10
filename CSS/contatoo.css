@@ -1,0 +1,24 @@
+*   {
+    font-size: 20px;
+}
+header {
+    text-align: center;
+}
+h1  {
+    font-size: 2rem;
+    text-align: center;
+    color: #E86C4F;
+}
+nav a {
+    font-size: 30px;
+    color: blue;
+}
+body    {
+    background-image: url();
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+form    {
+    color: black;
+}

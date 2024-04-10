@@ -1,0 +1,26 @@
+*   {
+    color: white;
+    font-size: 30px;
+}
+body    {
+    background-image: url(/JPG/2w1xs2iio5kww.webp);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header {
+    text-align: center;
+}
+h1  {
+    font-size: 2rem;
+    text-align: center;
+    color: #E86C4F;
+}
+nav a {
+    font-size: 30px;
+    color: blue;
+}
+ol  {
+    font-size: 20px;
+}
