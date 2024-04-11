@@ -1,15 +1,71 @@
-*   {
-    font-size: 30px;
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Whisper&display=swap');
+/* .rubik-<uniquifier> {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
-header {
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Whisper&display=swap');
+/* .whisper-regular {
+    font-family: "Whisper", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+   */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Whisper&display=swap');
+/* .roboto-condensed-<uniquifier> {
+     font-family: "Roboto Condensed", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: <weight>;
+     font-style: normal;
+   }
+    */
+
+
+* {
+    font-size: 35px;
+    color: #8a1900;
+    font-family: "Rubik", sans-serif;
+}
+
+nav {
     text-align: center;
+    font-family: "Roboto Condensed", sans-serif;
 }
-h1  {
+
+body {
+    background-image: url(/JPG/pngtree-sweet-chocolate-sauce-background-picture-image_1276466.jpg);
+    background-position: left;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    font-family: "Whisper", cursive;
     font-size: 2rem;
     text-align: center;
     color: #E86C4F;
 }
+
 nav a {
     font-size: 30px;
-    color: blue;
+    color: #8a1900;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+p {
+    font-size: 24px;
+    text-align: justify;
+
+}
+
+nav {
+    margin: -8px;
+    padding: 5px;
+    background-color: #E86C4F;
 }
